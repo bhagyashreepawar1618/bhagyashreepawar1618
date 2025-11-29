@@ -38,9 +38,6 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="200" alt="A cute cartoon coding at a desk">
-</p>
 
 ## 💜 Contact
 -Email- bhagyashreepawar1618@gmail.com
