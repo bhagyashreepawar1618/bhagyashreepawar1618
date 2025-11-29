@@ -16,13 +16,14 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 ---
 
 ## 🛠️ Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Practice-4B0082?style=flat-square)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="80" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="80" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="80" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" width="80" />](https://getbootstrap.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="80" />](https://tailwindcss.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="80" />](https://isocpp.org)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="80" />](https://leetcode.com/u/bhagyashree1618/)
+
 
 ---
 
@@ -37,9 +38,9 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 
 
 ## 💜 Contact
-- ✉️ Email: `bhagyashreepawar1618@gmail.com`  
-- 🔗 Linkedin: `bhagyashree-pawar`  
-- 🔗 Leetcode:`bhagyashree1618`
+-Email- bhagyashreepawar1618@gmail.com
+- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="80" />](www.linkedin.com/in/bhagyashreepawar1618)
+
 
 ---
 
