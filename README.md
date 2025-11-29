@@ -1,4 +1,5 @@
 # Hi, I'm Bhagyashree 👋 💜
+![Cute waving kitten] (https://i.imgur.com/example_cute_cat.gif)
 
 **Second-year Computer Engineering student** | Web Developer | DSA learner  
 Building clean UI, tiny delightful experiences, and robust algorithms.  
