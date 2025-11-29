@@ -16,14 +16,13 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 ---
 
 ## 🛠️ Skills
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="80" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="80" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="80" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" width="80" />](https://getbootstrap.com)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="80" />](https://tailwindcss.com)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="80" />](https://isocpp.org)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="80" />](https://leetcode.com/u/bhagyashree1618/)
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80"/>](https://getbootstrap.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="80"/>](https://tailwindcss.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>](https://git-scm.com)
 
 ---
 
@@ -39,7 +38,10 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 
 ## 💜 Contact
 -Email- bhagyashreepawar1618@gmail.com
-- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="80" />](www.linkedin.com/in/bhagyashreepawar1618)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80"/>](https://www.linkedin.com/in/bhagyashreepawar1618/)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="80"/>](https://leetcode.com/u/bhagyashree1618/)
+
+
 
 
 ---
