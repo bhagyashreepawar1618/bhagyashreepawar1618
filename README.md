@@ -19,12 +19,13 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80"/>](https://getbootstrap.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="80"/>](https://tailwindcss.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80"/>](https://www.figma.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>](https://git-scm.com)
 
