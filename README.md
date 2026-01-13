@@ -23,16 +23,20 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80"/>](https://getbootstrap.com)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80"/>](https://tailwindcss.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80"/>](https://www.figma.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>](https://react.dev)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>](https://nodejs.org)
+[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="90" style="background:white; padding:8px; border-radius:10px"/>](https://expressjs.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>](https://www.mongodb.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>](https://git-scm.com)
 
 ---
 
 ## ✨ Featured Projects  
-- **BMI Calculator** — Small interactive app (C++) and web version for practice.  
+- **BMI Calculator** — Small interactive app and web version for practice.  
 - **Clone Projects** — 3 clones (Bootstrap + Tailwind) showing UI skills.
 - **Games**-2 games (Rock paper scissor and Tic tac toe.
 
