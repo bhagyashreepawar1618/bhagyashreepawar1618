@@ -1,4 +1,5 @@
 # Hi, I'm Bhagyashree 👋 💜
+![Profile Views](https://komarev.com/ghpvc/?username=bhagyashreepawar1618&color=blue)
 
 <p align="center">
   <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="200" alt="A cute cartoon coding at a desk">
