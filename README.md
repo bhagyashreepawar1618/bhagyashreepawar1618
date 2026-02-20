@@ -2,25 +2,28 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bhagyashreepawar1618&color=blue)
 
 <p align="center">
-  <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="200" alt="A cute cartoon coding at a desk">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Project+Builder;React+%7C+Node+%7C+MongoDB" />
 </p>
 
-**Second-year Computer Engineering student** | Web Developer | DSA learner  
-Building clean UI, tiny delightful experiences, and robust algorithms.  
-I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pages. 💜
+**Second-year Computer Engineering student** | MERN Stack Developer | DSA Learner  
+
+Passionate about building scalable full-stack applications, crafting clean UI, and writing efficient backend systems.  
+I enjoy turning ideas into real-world projects and continuously improving my development skills. 💜
 
 ---
 
 ## 🚀 About Me
--  🔭 Currently learning **Full-Stack Web Development (MERN)**  
-- 🌱 Learning: React, Tailwind, and deeper system design basics
+- 🔭 Built a complete **MERN Stack YouTube Clone**
+- 🍽️ Currently building a **Full-Stack Food Management System**
+- 🌱 Strong in: React, Node.js, Express.js, MongoDB  
 - 🌱 Frontend: Advanced HTML, CSS, JavaScript, Tailwind  
-- ⚡ Backend: Node.js & Express (learning)  
-- 💼 Interested in: Frontend roles, Internships, and real-world projects  
+- ⚡ Backend: REST APIs, JWT Authentication, MongoDB Aggregations  
+- 💼 Interested in: Frontend / MERN Stack Internships & Real-world Projects  
 
 ---
 
 ## 🛠️ Skills & Tools
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -37,22 +40,33 @@ I code in C++, love frontend, and play with Tailwind and Bootstrap for pretty pa
 ---
 
 ## ✨ Featured Projects  
-- **BMI Calculator** — Small interactive app and web version for practice.  
-- **Clone Projects** — 3 clones (Bootstrap + Tailwind) showing UI skills.
-- **Games**-2 games (Rock paper scissor and Tic tac toe.
 
+### 🎬 MERN Stack YouTube Clone
+- Full Authentication System (JWT + Cookies)
+- Subscribe / Unsubscribe logic using MongoDB Aggregation
+- Video Upload & Dynamic Video Rendering
+- RESTful APIs with Node.js & Express
+- Responsive UI using React + Tailwind
+
+### 🍽️ Food Management System (In Progress)
+- Role-based Access System
+- Backend API Architecture with MongoDB
+- Scalable Full-Stack Structure
+
+### 🎮 Mini Projects
+- Todo App using React Local Storage
+- Currency Convertor (Api Integration)
+- Rock Paper Scissors Game
+- Tic Tac Toe Game
+- 3 UI Clone Projects (Bootstrap + Tailwind)
 
 ---
 
-
 ## 💜 Contact
--Email- bhagyashreepawar1618@gmail.com
+- 📧 Email: bhagyashreepawar1618@gmail.com  
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80"/>](https://www.linkedin.com/in/bhagyashreepawar1618/)
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="80"/>](https://leetcode.com/u/bhagyashree1618/)
 
-
-
-
 ---
 
-> **From Bhagyashree with Borahae💜 .**
+> **From Bhagyashree with Borahae 💜**
