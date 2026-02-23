@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Project+Builder;React+%7C+Node+%7C+MongoDB" />
 </p>
 
+my portfolio - https://portfolio-delta-silk-22.vercel.app
+---
 **Second-year Computer Engineering student** | MERN Stack Developer | DSA Learner  
 
 Passionate about building scalable full-stack applications, crafting clean UI, and writing efficient backend systems.  
