@@ -40,15 +40,18 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 
 ## ⚙️ Backend Development
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>](https://nodejs.org)
-[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="90" style="background:white; padding:8px; border-radius:10px"/>](https://expressjs.com)
+[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="90" style="background:white"/>](https://expressjs.com)
 
 ## 🗄️ Databases
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>](https://www.mongodb.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"/>](https://www.mysql.com)
 
 ## 🚀 Deployment
-[<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="80"/>](https://vercel.com)
-[<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="80"/>](https://render.com)
+## 🚀 Deployment
+
+[<img src="https://cdn.simpleicons.org/vercel/000000" width="80" style="background:white; padding:10px; border-radius:10px"/>](https://vercel.com)
+[<img src="https://cdn.simpleicons.org/render/7B3FE4" width="80" style="background:white; padding:10px; border-radius:10px"/>](https://render.com)
+
 
 ## 🛠 Tools & Design
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>](https://git-scm.com)
