@@ -25,19 +25,34 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 ---
 
 ## 🛠️ Skills & Tools
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## 🧠 Languages
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
+
+## 🎨 Frontend Development
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>](https://react.dev)
+
+## 🧩 Frameworks & Libraries
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80"/>](https://getbootstrap.com)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80"/>](https://tailwindcss.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80"/>](https://www.figma.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>](https://react.dev)
+
+## ⚙️ Backend Development
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>](https://nodejs.org)
 [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="90" style="background:white; padding:8px; border-radius:10px"/>](https://expressjs.com)
+
+## 🗄️ Databases
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>](https://www.mongodb.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"/>](https://www.mysql.com)
+
+## 🚀 Deployment
+[<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="80"/>](https://vercel.com)
+[<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="80"/>](https://render.com)
+
+## 🛠 Tools & Design
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>](https://git-scm.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80"/>](https://www.figma.com)
 
 ---
 
