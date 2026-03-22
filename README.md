@@ -15,19 +15,25 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 ---
 
 ## 🚀 About Me
-- 🔭 Built a complete **MERN Stack YouTube Clone**
-- 🍽️ Currently building a **Full-Stack Food Management System**
-- 🌱 Strong in: React, Node.js, Express.js, MongoDB  
-- 🌱 Frontend: Advanced HTML, CSS, JavaScript, Tailwind  
-- ⚡ Backend: REST APIs, JWT Authentication, MongoDB Aggregations  
-- 💼 Interested in: Frontend / MERN Stack Internships & Real-world Projects  
+
+- 🚀 Built **3 Full-Stack MERN Applications** solving real-world problems  
+- 🤖 Hands-on experience with **AI API integration** in web applications  
+- 🧠 Currently developing a **Mega AI-powered MERN Project**  
+- 🌱 Exploring **TypeScript, Next.js & Generative AI**  
+- 💻 Tech Stack: React.js, Node.js, Express.js, MongoDB  
+- ⚡ Skilled in: REST APIs, JWT Authentication, MongoDB Aggregations  
+- 💼 Actively seeking **Frontend / MERN Stack Internship Opportunities**  
 
 ---
 
 ## 🛠️ Skills & Tools
 ## 🧠 Languages
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80"/>](https://www.typescriptlang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/>](https://www.java.com/)
 
 ## 🎨 Frontend Development
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
