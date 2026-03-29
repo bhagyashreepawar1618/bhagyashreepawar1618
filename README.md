@@ -53,7 +53,6 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"/>](https://www.mysql.com)
 
 ## 🚀 Deployment
-## 🚀 Deployment
 
 [<img src="https://cdn.simpleicons.org/vercel/000000" width="80" style="background:white; padding:10px; border-radius:10px"/>](https://vercel.com)
 [<img src="https://cdn.simpleicons.org/render/7B3FE4" width="80" style="background:white; padding:10px; border-radius:10px"/>](https://render.com)
