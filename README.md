@@ -1,97 +1,121 @@
-# Hi, I'm Bhagyashree 👋 💜
-![Profile Views](https://komarev.com/ghpvc/?username=bhagyashreepawar1618&color=blue)
+
+> <h1 align="center">Hi 👋, I'm Bhagyashree Pawar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Project+Builder;React+%7C+Node+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects;Open+to+Internships+%F0%9F%92%BC" />
 </p>
 
-my portfolio - https://portfolio-delta-silk-22.vercel.app
----
-**Second-year Computer Engineering student** | MERN Stack Developer | DSA Learner  
-
-Passionate about building scalable full-stack applications, crafting clean UI, and writing efficient backend systems.  
-I enjoy turning ideas into real-world projects and continuously improving my development skills. 💜
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhagyashreepawar1618&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 💜 About Me
 
-- 🚀 Built **3 Full-Stack MERN Applications** solving real-world problems  
-- 🤖 Hands-on experience with **AI API integration** in web applications  
-- 🧠 Currently developing a **Mega AI-powered MERN Project**  
-- 🌱 Exploring **TypeScript, Next.js & Generative AI**  
-- 💻 Tech Stack: React.js, Node.js, Express.js, MongoDB  
-- ⚡ Skilled in: REST APIs, JWT Authentication, MongoDB Aggregations  
-- 💼 Actively seeking **Frontend / MERN Stack Internship Opportunities**  
+🎓 Second-Year Computer Engineering Student  
+💻 Passionate MERN Stack Developer  
+🚀 Love building real-world scalable web applications  
 
----
-
-## 🛠️ Skills & Tools
-## 🧠 Languages
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80"/>](https://www.typescriptlang.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>](https://isocpp.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/>](https://www.java.com/)
-
-## 🎨 Frontend Development
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>](https://react.dev)
-
-## 🧩 Frameworks & Libraries
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80"/>](https://getbootstrap.com)
-[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80"/>](https://tailwindcss.com)
-
-## ⚙️ Backend Development
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>](https://nodejs.org)
-[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="90" style="background:white"/>](https://expressjs.com)
-
-## 🗄️ Databases
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>](https://www.mongodb.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"/>](https://www.mysql.com)
-
-## 🚀 Deployment
-
-[<img src="https://cdn.simpleicons.org/vercel/000000" width="80" style="background:white; padding:10px; border-radius:10px"/>](https://vercel.com)
-[<img src="https://cdn.simpleicons.org/render/7B3FE4" width="80" style="background:white; padding:10px; border-radius:10px"/>](https://render.com)
-
-
-## 🛠 Tools & Design
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>](https://git-scm.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80"/>](https://www.figma.com)
+- 🔭 Currently working on **AI Playground (MERN + AI Integration)**
+- 🌱 Learning **Next.js & TypeScript**
+- 🧠 Exploring **Generative AI & Advanced Backend Systems**
+- 💼 Actively looking for **Internship Opportunities**
+- ⚡ Strong in **REST APIs, JWT Auth & Full Stack Development**
 
 ---
 
-## ✨ Featured Projects  
+## 🌐 Portfolio
 
-### 🎬 MERN Stack YouTube Clone
-- Full Authentication System (JWT + Cookies)
-- Subscribe / Unsubscribe logic using MongoDB Aggregation
-- Video Upload & Dynamic Video Rendering
-- RESTful APIs with Node.js & Express
-- Responsive UI using React + Tailwind
-
-### 🍽️ Food Management System (In Progress)
-- Role-based Access System
-- Backend API Architecture with MongoDB
-- Scalable Full-Stack Structure
-
-### 🎮 Mini Projects
-- Todo App using React Local Storage
-- Currency Convertor (Api Integration)
-- Rock Paper Scissors Game
-- Tic Tac Toe Game
-- 3 UI Clone Projects (Bootstrap + Tailwind)
+🔗 https://portfolio-delta-silk-22.vercel.app
 
 ---
 
-## 💜 Contact
-- 📧 Email: bhagyashreepawar1618@gmail.com  
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80"/>](https://www.linkedin.com/in/bhagyashreepawar1618/)
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="80"/>](https://leetcode.com/u/bhagyashree1618/)
+## 🚀 Tech Stack
+
+### 🧠 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🚀 Deployment & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,vercel,render,figma,postman" />
+</p>
 
 ---
 
-> **From Bhagyashree with Borahae 💜**
+## ✨ Featured Projects
+
+### 🎬 Streamify : Video Streaming Platform (MERN)
+- 🔐 JWT Authentication & Secure APIs  
+- 📺 Video Upload & Dynamic Rendering  
+- 🔄 Subscribe System (MongoDB Aggregation)  
+- ⚡ Fully Responsive UI  
+
+---
+
+### 🍽️ Food Order tracking System (MERN)
+- 👥 Role-Based Access Control  
+- ⚙️ Scalable Backend Architecture  
+- 📊 Optimized Database Design  
+
+---
+
+### 🎮 Charity-Platform (MERN)
+- Role based access
+- Adding golf score daily
+- Separete user and admin dashboards
+- image uploads Using Multer and cloudinary
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagyashreepawar1618&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashreepawar1618&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashreepawar1618&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/bhagyashreepawar1618"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/pawarbhagyashree16"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://leetcode.com/u/bhagyashree1618/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+</p>
+
+---
+
+## 💌 Contact
+
+📧 Email: **bhagyashreepawar1618@gmail.com**
+
+---
+
+<p align="center">💜 From Bhagyashree with Borahae 💜</p>
