@@ -89,15 +89,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagyashreepawar1618&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=bhagyashreepawar1618&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashreepawar1618&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
