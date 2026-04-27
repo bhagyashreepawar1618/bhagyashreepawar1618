@@ -36,7 +36,7 @@
 
 ### 🧠 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,python" />
 </p>
 
 ### 🎨 Frontend
