@@ -56,7 +56,7 @@
 
 ### 🚀 Deployment & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,vercel,render,figma,postman,docker />
+<img src="https://skillicons.dev/icons?i=git,vercel,render,figma,postman,docker"/>
 </p>
 
 ---
