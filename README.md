@@ -1,117 +1,213 @@
+<div align="center">
 
-> <h1 align="center">Hi 👋, I'm Bhagyashree Pawar</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Apps</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:16a34a,50:22c55e,100:38bdf8&text=Bhagyashree%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Learner&descAlignY=60"/>
+
+# 👋 Hi, I'm Bhagyashree Pawar
+
+### 🚀 Full Stack MERN & PERN Developer | AI Enthusiast | Building Real-World Scalable Applications
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+%26+PERN+Developer;React+%7C+Node.js+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+Prisma;Cloudinary+%7C+Docker+%7C+JWT+Authentication;AI+Powered+Web+Applications;Currently+Building+CropSense+AI+%F0%9F%8C%BE;Open+to+Software+Engineering+Internships+%F0%9F%92%BC" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhagyashreepawar1618&label=Profile%20Views&color=16a34a&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/bhagyashreepawar1618?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/bhagyashreepawar1618?style=for-the-badge&logo=github"/>
+
+
+
+</div>
+
+---
+
+## 🌟 Welcome to My GitHub
+
+I'm a **Computer Engineering student** passionate about building modern **Full Stack Web Applications**, integrating **Artificial Intelligence**, and solving real-world problems through technology.
+
+I enjoy creating scalable applications with clean UI, secure backend architecture, and intelligent AI-powered features. My goal is to continuously learn, build impactful projects, and contribute to innovative software solutions.
+
+---
+
+# 💜 About Me
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 **Computer Engineering Student** passionate about building modern and scalable web applications.
+
+💻 I specialize in **Full Stack Development** with a strong interest in **Artificial Intelligence**, backend engineering, and cloud technologies.
+
+🌱 I believe in learning by building real-world projects that solve practical problems.
+
+### 🚀 Currently Working On
+
+- 🌿 **Agro vision** – AI Powered Sustainable Farming Assistant
+- 🤖 AI Integration using **Gemini API**
+- ☁️ Image Upload & Management using **Cloudinary**
+- 🗄️ **PostgreSQL + Prisma ORM**
+- 🔐 Secure Authentication using **JWT**
+- 💳 Subscription & Payment System
+- 🌦️ Weather API Integration
+- 📈 Machine Learning based Crop Yield Prediction
+
+---
+
+### 🌱 Currently Learning
+
+- ⚛️ Advanced React
+- 🐳 Docker
+- ☁️ Cloud Deployment
+- 📊 System Design
+- ⚡ Backend Optimization
+
+---
+
+### 💼 Looking For
+
+✔ Software Engineering Internship
+
+✔ Full Stack Development Opportunities
+
+✔ Open Source Contributions
+
+✔ AI Based Projects
+
+---
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects;Open+to+Internships+%F0%9F%92%BC" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases & ORM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
+</p>
+
+---
+
+## ☁️ Cloud • AI • DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,render,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-16a34a?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+
+</p>
+
+---
+
+## 🛠 Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,npm,bash" />
+
+</p>
+
+---
+# 🌟 Featured Projects
+
+### 🌿 Agro vision ⭐ *(Flagship Project)*
+**AI-Powered Sustainable Farming Assistant**
+
+> Smart farming platform powered by AI to help farmers detect diseases, monitor weather, predict crop yield and make better farming decisions.
+
+**Highlights**
+- 🤖 Gemini AI Chatbot
+- 🦠 Disease Detection
+- 🌦️ Weather Forecast
+- 💧 Irrigation Planner
+- 📈 Yield Prediction *(Premium)*
+- 🧪 Fertilizer Recommendation
+- ☁️ Cloudinary Uploads
+- 🔐 JWT Authentication
+- 💳 Premium Subscription System
+
+**Tech:** React • Node.js • Express • PostgreSQL • Prisma • Tailwind CSS • Gemini AI • Cloudinary
+
+---
+
+### 🎬 Streamify
+Full Stack Video Streaming Platform with JWT Authentication, Cloudinary Video Uploads and Subscription System.
+
+**Tech:** React • Node.js • MongoDB • Express
+
+---
+
+### 🛒 EcoCommerce AI
+AI-powered platform for generating product descriptions and tags using LLMs.
+
+**Tech:** React • Node.js • MongoDB • OpenRouter AI
+
+---
+
+### 🍽️ Bhojan Buddy
+Hostel Food Management System with role-based authentication and admin dashboard.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+### ⛳ Golf Charity Platform
+Role-based charity event management platform with Cloudinary image uploads.
+
+**Tech:** React • Node.js • Express • MongoDB
+---
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhagyashreepawar1618&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashreepawar1618&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhagyashreepawar1618&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 💜 About Me
-
-🎓 Second-Year Computer Engineering Student  
-💻 Passionate MERN Stack Developer  
-🚀 Love building real-world scalable web applications  
-
-- 🔭 Currently working on **AI Playground (MERN + AI Integration)**
-- 🌱 Learning **Next.js & TypeScript**
-- 🧠 Exploring **Generative AI & Advanced Backend Systems**
-- 💼 Actively looking for **Internship Opportunities**
-- ⚡ Strong in **REST APIs, JWT Auth & Full Stack Development**
-
----
-
-## 🌐 Portfolio
-
-🔗 https://portfolio-delta-silk-22.vercel.app
-
----
-
-## 🚀 Tech Stack
-
-### 🧠 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,python" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### 🚀 Deployment & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,vercel,render,figma,postman,docker,prisma"/>
-</p>
-
----
-
-## ✨ Featured Projects
-
-### 🎬 Streamify : Video Streaming Platform (MERN)
-- 🔐 JWT Authentication & Secure APIs  
-- 📺 Video Upload & Dynamic Rendering  
-- 🔄 Subscribe System (MongoDB Aggregation)  
-- ⚡ Fully Responsive UI  
-
----
-
-### 🍽️ Food Order tracking System (MERN)
-- 👥 Role-Based Access Control  
-- ⚙️ Scalable Backend Architecture  
-- 📊 Optimized Database Design  
-
----
-
-### 🎮 Charity-Platform (MERN)
-- Role based access
-- Adding golf score daily
-- Separete user and admin dashboards
-- image uploads Using Multer and cloudinary
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhagyashreepawar1618&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=bhagyashreepawar1618&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagyashreepawar1618&theme=tokyo-night" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagyashreepawar1618&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://linkedin.com/in/bhagyashreepawar1618"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/pawarbhagyashree16"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://leetcode.com/u/bhagyashree1618/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhagyashreepawar1618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
-
-## 💌 Contact
-
-📧 Email: **bhagyashreepawar1618@gmail.com**
-
----
-
-<p align="center">💜 From Bhagyashree with Borahae 💜</p>
