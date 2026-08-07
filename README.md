@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:16a34a,50:22c55e,100:38bdf8&text=Bhagyashree%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Learner&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7c3aed,50:a855f7,100:ec4899&text=Bhagyashree%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Learner&descAlignY=60"/>
 
 # 👋 Hi, I'm Bhagyashree Pawar
 
@@ -189,10 +189,6 @@ Role-based charity event management platform with Cloudinary image uploads.
 ---
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhagyashreepawar1618&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashreepawar1618&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bhagyashreepawar1618&theme=tokyonight&hide_border=true"/>
@@ -206,8 +202,9 @@ Role-based charity event management platform with Cloudinary image uploads.
 
 ## 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhagyashreepawar1618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-trophies.vercel.app/?username=bhagyashreepawar1618&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
