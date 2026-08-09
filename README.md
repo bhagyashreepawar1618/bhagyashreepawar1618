@@ -76,68 +76,23 @@ I enjoy creating scalable applications with clean UI, secure backend architectur
 ---
 # 🚀 Tech Stack
 
-## 💻 Programming Languages
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
-</p>
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
 
----
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-## 🎨 Frontend Development
+#### 🗄️ Database & ORM
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap" />
-</p>
+#### ☁️ Cloud • AI • DevOps
+<img src="https://skillicons.dev/icons?i=docker,render,vercel,netlify,cloudinary,nodemailer" />
 
----
-
-## ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-## 🗄️ Databases & ORM
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
-</p>
-
----
-
-## ☁️ Cloud • AI • DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,render,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20API-16a34a?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
-
-</p>
-
----
-
-## 🛠 Tools I Use
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,npm,bash" />
-
-</p>
-
+#### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 ---
 # 🌟 Featured Projects
 
