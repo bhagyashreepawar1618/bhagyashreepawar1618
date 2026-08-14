@@ -89,7 +89,7 @@ I enjoy creating scalable applications with clean UI, secure backend architectur
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
 
 #### ☁️ Cloud • AI • DevOps
-<img src="https://skillicons.dev/icons?i=docker,render,vercel,netlify,cloudinary,nodemailer" />
+<img src="https://skillicons.dev/icons?i=docker,render,vercel,netlify,cloudinary,nodemailer,socket.io" />
 
 #### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
