@@ -89,10 +89,25 @@ I enjoy creating scalable applications with clean UI, secure backend architectur
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
 
 #### ☁️ Cloud • AI • DevOps
-<img src="https://skillicons.dev/icons?i=docker,render,vercel,netlify,cloudinary,nodemailer,socket.io" />
+<img src="https://skillicons.dev/icons?i=docker,render,vercel,netlify" />
 
 #### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<h3>🔐 Backend • Authentication • Services</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=nodemailer&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/bcrypt-3388CC?style=for-the-badge&logo=bcrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/razorpay-3388CC?style=for-the-badge&logo=razorpay&logoColor=white" />
+  
+</p>
+
+
+
 ---
 # 🌟 Featured Projects
 
