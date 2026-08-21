@@ -161,7 +161,7 @@ Role-based charity event management platform with Cloudinary image uploads.
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhagyashreepawar1618&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=bhagyashreepawar1618&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
