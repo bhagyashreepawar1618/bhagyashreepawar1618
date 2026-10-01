@@ -83,7 +83,7 @@ I enjoy creating scalable applications with clean UI, secure backend architectur
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
 
 #### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
 
 #### 🗄️ Database & ORM
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
