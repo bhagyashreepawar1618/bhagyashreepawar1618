@@ -103,6 +103,7 @@ I enjoy creating scalable applications with clean UI, secure backend architectur
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-3388CC?style=for-the-badge&logo=bcrypt&logoColor=white" />
     <img src="https://img.shields.io/badge/razorpay-3388CC?style=for-the-badge&logo=razorpay&logoColor=white" />
+    <img src="https://img.shields.io/badge/thunderclient-3388CC?style=for-the-badge&logo=thunderclient&logoColor=white" />
   
 </p>
 
